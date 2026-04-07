@@ -1,0 +1,16 @@
+BEGIN PGP MESSAGE
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{"expiration": "1m", "cn": "Antonia Kiel", "givenName": "Antonia", "mail": "antonia.kiel@uni-hamburg.de", "memberof": "/", "sn": "Kiel", "valid_until": "2025-10-09T07:49:44.250825Z", "issued": "2025-09-09T07:49:44.250834Z"}
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEyDgVFY3wB3Jy8Z4eQWnOnQCXB1cFAmi/3BgACgkQQWnOnQCX
+B1f9pwgAoNxm/N2lCRsvFqydhH1/t/e4HkzIQh+q+7RtcjYi+A4O2XpV5XTmQJ3z
+O5txDBfQWFbRc1OlmyIJ6uOBmz/8Bt3HxfIdIfyWh0vkB0kJrZLhOfLQcCckr+K9
+tQE2fb0xmUy1cdIPzL0CeAVfsGVSTSq7WMWmDyXLcD2agrKif8JFl9qxhHKoIf8i
+FlKtRMZEI0WZWAhGcJEyLeSJbsV/tcBRBdzfVvV3B0EtqzQ5oyhNHQjeI0hwcAku
+Hr1Omcj1hF8VrC3thG08vwxI1iIsoymm21jotSCKq+oiaZRUWK2/uaPX0owgd+0v
+Ai1bzb2ooqyQtOVpywbQ4GOX0PCAyQ==
+=a/Bw
+-----END PGP SIGNATURE-----
